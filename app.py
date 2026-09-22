@@ -1,5 +1,3 @@
-This full script extracts text from uploaded study PDFs, parses the data into your strict schema using OpenAI, and compiles an editable 6-slide PowerPoint (.pptx) presentation formatted for Journal Clubs and P&T evaluations.
-
 import io
 import json
 import streamlit as st
